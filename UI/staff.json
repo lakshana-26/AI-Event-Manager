@@ -1,7 +1,7 @@
 [
   {
-    "user_id": "USR_STF_001",
-    "registration_id": "STF2026001",
+    "user_id": "STF001",
+    "registration_id": "STF001",
     "name": "Prof. Rajesh Raman",
     "email": "rajesh.raman@college.edu",
     "department": "Computer Science and Engineering",
@@ -12,8 +12,8 @@
     "assigned_club": "ACM Student Chapter"
   },
   {
-    "user_id": "USR_STF_002",
-    "registration_id": "STF2026002",
+    "user_id": "STF002",
+    "registration_id": "STF002",
     "name": "Dr. Meenakshi Sundaram",
     "email": "meenakshi.s@college.edu",
     "department": "Electronics and Communication Engineering",
@@ -24,8 +24,8 @@
     "assigned_club": "IEEE Student Branch"
   },
   {
-    "user_id": "USR_STF_003",
-    "registration_id": "STF2026003",
+    "user_id": "STF003",
+    "registration_id": "STF003",
     "name": "Dr. Vikramaditya Sen",
     "email": "vikram.sen@college.edu",
     "department": "Mechanical Engineering",
@@ -36,8 +36,8 @@
     "assigned_club": "SAE Collegiate Club"
   },
   {
-    "user_id": "USR_STF_004",
-    "registration_id": "STF2026004",
+    "user_id": "STF004",
+    "registration_id": "STF004",
     "name": "Dr. Ananya Deshmukh",
     "email": "ananya.deshmukh@college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -48,8 +48,8 @@
     "assigned_club": "AI Innovators Club"
   },
   {
-    "user_id": "USR_STF_005",
-    "registration_id": "STF2026005",
+    "user_id": "STF005",
+    "registration_id": "STF005",
     "name": "Prof. K. R. Balaji",
     "email": "kr.balaji@college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -60,8 +60,8 @@
     "assigned_club": "Green Energy Forum"
   },
   {
-    "user_id": "USR_STF_006",
-    "registration_id": "STF2026006",
+    "user_id": "STF006",
+    "registration_id": "STF006",
     "name": "Dr. Sunita Kulkarni",
     "email": "sunita.kulkarni@college.edu",
     "department": "Information Technology",
@@ -72,8 +72,8 @@
     "assigned_club": "Cyber Security Cell"
   },
   {
-    "user_id": "USR_STF_007",
-    "registration_id": "STF2026007",
+    "user_id": "STF007",
+    "registration_id": "STF007",
     "name": "Prof. David V. Thomas",
     "email": "david.thomas@college.edu",
     "department": "Civil Engineering",
@@ -84,8 +84,8 @@
     "assigned_club": "Eco-Builders Club"
   },
   {
-    "user_id": "USR_STF_008",
-    "registration_id": "STF2026008",
+    "user_id": "STF008",
+    "registration_id": "STF008",
     "name": "Dr. Priya Nambiar",
     "email": "priya.nambiar@college.edu",
     "department": "Biotechnology",
@@ -96,8 +96,8 @@
     "assigned_club": "Biotech Research Society"
   },
   {
-    "user_id": "USR_STF_009",
-    "registration_id": "STF2026009",
+    "user_id": "STF009",
+    "registration_id": "STF009",
     "name": "Dr. Harish Chandra",
     "email": "harish.chandra@college.edu",
     "department": "Management Studies",
@@ -108,8 +108,8 @@
     "assigned_club": "Management Guild"
   },
   {
-    "user_id": "USR_STF_010",
-    "registration_id": "STF2026010",
+    "user_id": "STF010",
+    "registration_id": "STF010",
     "name": "Prof. Shalini Roy",
     "email": "shalini.roy@college.edu",
     "department": "Humanities and Sciences",
@@ -120,8 +120,8 @@
     "assigned_club": "Literary & Debating Society"
   },
   {
-    "user_id": "USR_STF_011",
-    "registration_id": "STF2026011",
+    "user_id": "STF011",
+    "registration_id": "STF011",
     "name": "Dr. Amitesh Verma",
     "email": "amitesh.verma@college.edu",
     "department": "Computer Science and Engineering",
@@ -132,8 +132,8 @@
     "assigned_club": "Open Source Developers Community"
   },
   {
-    "user_id": "USR_STF_012",
-    "registration_id": "STF2026012",
+    "user_id": "STF012",
+    "registration_id": "STF012",
     "name": "Prof. Lakshmi Narayan",
     "email": "lakshmi.narayan@college.edu",
     "department": "Electronics and Communication Engineering",
@@ -144,8 +144,8 @@
     "assigned_club": "Hardware Hackers Club"
   },
   {
-    "user_id": "USR_STF_013",
-    "registration_id": "STF2026013",
+    "user_id": "STF013",
+    "registration_id": "STF013",
     "name": "Dr. G. Senthil Kumar",
     "email": "senthil.kumar@college.edu",
     "department": "Physical Education",
@@ -156,8 +156,8 @@
     "assigned_club": "Sports Council"
   },
   {
-    "user_id": "USR_STF_014",
-    "registration_id": "STF2026014",
+    "user_id": "STF014",
+    "registration_id": "STF014",
     "name": "Prof. Rita Ghosh",
     "email": "rita.ghosh@college.edu",
     "department": "Fine Arts and Culture",
@@ -168,8 +168,8 @@
     "assigned_club": "Music & Dance Troupe"
   },
   {
-    "user_id": "USR_STF_015",
-    "registration_id": "STF2026015",
+    "user_id": "STF015",
+    "registration_id": "STF015",
     "name": "Dr. Naveen Hegde",
     "email": "naveen.hegde@college.edu",
     "department": "Student Affairs",

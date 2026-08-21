@@ -1,7 +1,7 @@
 [
   {
-    "user_id": "USR_STU_001",
-    "registration_id": "STU2026001",
+    "user_id": "STU001",
+    "registration_id": "STU001",
     "name": "Aarav Sharma",
     "email": "aarav.sharma1@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -15,8 +15,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_002",
-    "registration_id": "STU2026002",
+    "user_id": "STU002",
+    "registration_id": "STU002",
     "name": "Aditi Verma",
     "email": "aditi.verma2@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -30,8 +30,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_003",
-    "registration_id": "STU2026003",
+    "user_id": "STU003",
+    "registration_id": "STU003",
     "name": "Advait Gupta",
     "email": "advait.gupta3@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -45,8 +45,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_004",
-    "registration_id": "STU2026004",
+    "user_id": "STU004",
+    "registration_id": "STU004",
     "name": "Akash Patel",
     "email": "akash.patel4@student.college.edu",
     "department": "Information Technology",
@@ -60,8 +60,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_005",
-    "registration_id": "STU2026005",
+    "user_id": "STU005",
+    "registration_id": "STU005",
     "name": "Ananya Reddy",
     "email": "ananya.reddy5@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -75,8 +75,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_006",
-    "registration_id": "STU2026006",
+    "user_id": "STU006",
+    "registration_id": "STU006",
     "name": "Aniket Nair",
     "email": "aniket.nair6@student.college.edu",
     "department": "Mechanical Engineering",
@@ -90,8 +90,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_007",
-    "registration_id": "STU2026007",
+    "user_id": "STU007",
+    "registration_id": "STU007",
     "name": "Anushka Iyer",
     "email": "anushka.iyer7@student.college.edu",
     "department": "Biotechnology",
@@ -105,8 +105,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_008",
-    "registration_id": "STU2026008",
+    "user_id": "STU008",
+    "registration_id": "STU008",
     "name": "Arjun Rao",
     "email": "arjun.rao8@student.college.edu",
     "department": "Civil Engineering",
@@ -120,8 +120,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_009",
-    "registration_id": "STU2026009",
+    "user_id": "STU009",
+    "registration_id": "STU009",
     "name": "Aryan Mehta",
     "email": "aryan.mehta9@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -135,8 +135,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_010",
-    "registration_id": "STU2026010",
+    "user_id": "STU010",
+    "registration_id": "STU010",
     "name": "Ayush Joshi",
     "email": "ayush.joshi10@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -150,8 +150,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_011",
-    "registration_id": "STU2026011",
+    "user_id": "STU011",
+    "registration_id": "STU011",
     "name": "Bhavya Bhat",
     "email": "bhavya.bhat11@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -165,8 +165,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_012",
-    "registration_id": "STU2026012",
+    "user_id": "STU012",
+    "registration_id": "STU012",
     "name": "Chetan Singh",
     "email": "chetan.singh12@student.college.edu",
     "department": "Information Technology",
@@ -180,8 +180,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_013",
-    "registration_id": "STU2026013",
+    "user_id": "STU013",
+    "registration_id": "STU013",
     "name": "Deepak Kumar",
     "email": "deepak.kumar13@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -195,8 +195,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_014",
-    "registration_id": "STU2026014",
+    "user_id": "STU014",
+    "registration_id": "STU014",
     "name": "Dev Chopra",
     "email": "dev.chopra14@student.college.edu",
     "department": "Mechanical Engineering",
@@ -210,8 +210,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_015",
-    "registration_id": "STU2026015",
+    "user_id": "STU015",
+    "registration_id": "STU015",
     "name": "Divya Das",
     "email": "divya.das15@student.college.edu",
     "department": "Biotechnology",
@@ -225,8 +225,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_016",
-    "registration_id": "STU2026016",
+    "user_id": "STU016",
+    "registration_id": "STU016",
     "name": "Gaurav Banerjee",
     "email": "gaurav.banerjee16@student.college.edu",
     "department": "Civil Engineering",
@@ -240,8 +240,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_017",
-    "registration_id": "STU2026017",
+    "user_id": "STU017",
+    "registration_id": "STU017",
     "name": "Gayatri Mishra",
     "email": "gayatri.mishra17@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -255,8 +255,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_018",
-    "registration_id": "STU2026018",
+    "user_id": "STU018",
+    "registration_id": "STU018",
     "name": "Harsh Pandey",
     "email": "harsh.pandey18@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -270,8 +270,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_019",
-    "registration_id": "STU2026019",
+    "user_id": "STU019",
+    "registration_id": "STU019",
     "name": "Ishaan Saxena",
     "email": "ishaan.saxena19@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -285,8 +285,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_020",
-    "registration_id": "STU2026020",
+    "user_id": "STU020",
+    "registration_id": "STU020",
     "name": "Ishita Deshmukh",
     "email": "ishita.deshmukh20@student.college.edu",
     "department": "Information Technology",
@@ -300,8 +300,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_021",
-    "registration_id": "STU2026021",
+    "user_id": "STU021",
+    "registration_id": "STU021",
     "name": "Jay Choudhury",
     "email": "jay.choudhury21@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -315,8 +315,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_022",
-    "registration_id": "STU2026022",
+    "user_id": "STU022",
+    "registration_id": "STU022",
     "name": "Jhanvi Pillai",
     "email": "jhanvi.pillai22@student.college.edu",
     "department": "Mechanical Engineering",
@@ -330,8 +330,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_023",
-    "registration_id": "STU2026023",
+    "user_id": "STU023",
+    "registration_id": "STU023",
     "name": "Karan Menon",
     "email": "karan.menon23@student.college.edu",
     "department": "Biotechnology",
@@ -345,8 +345,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_024",
-    "registration_id": "STU2026024",
+    "user_id": "STU024",
+    "registration_id": "STU024",
     "name": "Kavya Kapoor",
     "email": "kavya.kapoor24@student.college.edu",
     "department": "Civil Engineering",
@@ -360,8 +360,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_025",
-    "registration_id": "STU2026025",
+    "user_id": "STU025",
+    "registration_id": "STU025",
     "name": "Kunal Aggarwal",
     "email": "kunal.aggarwal25@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -375,8 +375,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_026",
-    "registration_id": "STU2026026",
+    "user_id": "STU026",
+    "registration_id": "STU026",
     "name": "Laksh Kulkarni",
     "email": "laksh.kulkarni26@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -390,8 +390,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_027",
-    "registration_id": "STU2026027",
+    "user_id": "STU027",
+    "registration_id": "STU027",
     "name": "Madhuri Jain",
     "email": "madhuri.jain27@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -405,8 +405,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_028",
-    "registration_id": "STU2026028",
+    "user_id": "STU028",
+    "registration_id": "STU028",
     "name": "Manish Bose",
     "email": "manish.bose28@student.college.edu",
     "department": "Information Technology",
@@ -420,8 +420,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_029",
-    "registration_id": "STU2026029",
+    "user_id": "STU029",
+    "registration_id": "STU029",
     "name": "Manvi Dutta",
     "email": "manvi.dutta29@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -435,8 +435,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_030",
-    "registration_id": "STU2026030",
+    "user_id": "STU030",
+    "registration_id": "STU030",
     "name": "Mohit Bhattacharya",
     "email": "mohit.bhattacharya30@student.college.edu",
     "department": "Mechanical Engineering",
@@ -450,8 +450,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_031",
-    "registration_id": "STU2026031",
+    "user_id": "STU031",
+    "registration_id": "STU031",
     "name": "Neha Srinivasan",
     "email": "neha.srinivasan31@student.college.edu",
     "department": "Biotechnology",
@@ -465,8 +465,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_032",
-    "registration_id": "STU2026032",
+    "user_id": "STU032",
+    "registration_id": "STU032",
     "name": "Nikhil Venkatesh",
     "email": "nikhil.venkatesh32@student.college.edu",
     "department": "Civil Engineering",
@@ -480,8 +480,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_033",
-    "registration_id": "STU2026033",
+    "user_id": "STU033",
+    "registration_id": "STU033",
     "name": "Nisha Ranganathan",
     "email": "nisha.ranganathan33@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -495,8 +495,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_034",
-    "registration_id": "STU2026034",
+    "user_id": "STU034",
+    "registration_id": "STU034",
     "name": "Om Naik",
     "email": "om.naik34@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -510,8 +510,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_035",
-    "registration_id": "STU2026035",
+    "user_id": "STU035",
+    "registration_id": "STU035",
     "name": "Pallavi Shetty",
     "email": "pallavi.shetty35@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -525,8 +525,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_036",
-    "registration_id": "STU2026036",
+    "user_id": "STU036",
+    "registration_id": "STU036",
     "name": "Pooja Gowda",
     "email": "pooja.gowda36@student.college.edu",
     "department": "Information Technology",
@@ -540,8 +540,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_037",
-    "registration_id": "STU2026037",
+    "user_id": "STU037",
+    "registration_id": "STU037",
     "name": "Pranav Hegde",
     "email": "pranav.hegde37@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -555,8 +555,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_038",
-    "registration_id": "STU2026038",
+    "user_id": "STU038",
+    "registration_id": "STU038",
     "name": "Prateek Purohit",
     "email": "prateek.purohit38@student.college.edu",
     "department": "Mechanical Engineering",
@@ -570,8 +570,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_039",
-    "registration_id": "STU2026039",
+    "user_id": "STU039",
+    "registration_id": "STU039",
     "name": "Priya Tripathi",
     "email": "priya.tripathi39@student.college.edu",
     "department": "Biotechnology",
@@ -585,8 +585,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_040",
-    "registration_id": "STU2026040",
+    "user_id": "STU040",
+    "registration_id": "STU040",
     "name": "Rahul Dubey",
     "email": "rahul.dubey40@student.college.edu",
     "department": "Civil Engineering",
@@ -600,8 +600,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_041",
-    "registration_id": "STU2026041",
+    "user_id": "STU041",
+    "registration_id": "STU041",
     "name": "Rashi Tiwari",
     "email": "rashi.tiwari41@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -615,8 +615,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_042",
-    "registration_id": "STU2026042",
+    "user_id": "STU042",
+    "registration_id": "STU042",
     "name": "Rhea Yadav",
     "email": "rhea.yadav42@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -630,8 +630,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_043",
-    "registration_id": "STU2026043",
+    "user_id": "STU043",
+    "registration_id": "STU043",
     "name": "Rishi Thakur",
     "email": "rishi.thakur43@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -645,8 +645,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_044",
-    "registration_id": "STU2026044",
+    "user_id": "STU044",
+    "registration_id": "STU044",
     "name": "Ritika Chauhan",
     "email": "ritika.chauhan44@student.college.edu",
     "department": "Information Technology",
@@ -660,8 +660,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_045",
-    "registration_id": "STU2026045",
+    "user_id": "STU045",
+    "registration_id": "STU045",
     "name": "Rohan Bhardwaj",
     "email": "rohan.bhardwaj45@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -675,8 +675,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_046",
-    "registration_id": "STU2026046",
+    "user_id": "STU046",
+    "registration_id": "STU046",
     "name": "Rohit Goswami",
     "email": "rohit.goswami46@student.college.edu",
     "department": "Mechanical Engineering",
@@ -690,8 +690,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_047",
-    "registration_id": "STU2026047",
+    "user_id": "STU047",
+    "registration_id": "STU047",
     "name": "Roshni Sen",
     "email": "roshni.sen47@student.college.edu",
     "department": "Biotechnology",
@@ -705,8 +705,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_048",
-    "registration_id": "STU2026048",
+    "user_id": "STU048",
+    "registration_id": "STU048",
     "name": "Sahil Roy",
     "email": "sahil.roy48@student.college.edu",
     "department": "Civil Engineering",
@@ -720,8 +720,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_049",
-    "registration_id": "STU2026049",
+    "user_id": "STU049",
+    "registration_id": "STU049",
     "name": "Sakshi Mukherjee",
     "email": "sakshi.mukherjee49@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -735,8 +735,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_050",
-    "registration_id": "STU2026050",
+    "user_id": "STU050",
+    "registration_id": "STU050",
     "name": "Sameer Chatterjee",
     "email": "sameer.chatterjee50@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -750,8 +750,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_051",
-    "registration_id": "STU2026051",
+    "user_id": "STU051",
+    "registration_id": "STU051",
     "name": "Sanchit Ghosal",
     "email": "sanchit.ghosal51@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -765,8 +765,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_052",
-    "registration_id": "STU2026052",
+    "user_id": "STU052",
+    "registration_id": "STU052",
     "name": "Sanjana Basu",
     "email": "sanjana.basu52@student.college.edu",
     "department": "Information Technology",
@@ -780,8 +780,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_053",
-    "registration_id": "STU2026053",
+    "user_id": "STU053",
+    "registration_id": "STU053",
     "name": "Sarthak Ghosh",
     "email": "sarthak.ghosh53@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -795,8 +795,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_054",
-    "registration_id": "STU2026054",
+    "user_id": "STU054",
+    "registration_id": "STU054",
     "name": "Shalini Paul",
     "email": "shalini.paul54@student.college.edu",
     "department": "Mechanical Engineering",
@@ -810,8 +810,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_055",
-    "registration_id": "STU2026055",
+    "user_id": "STU055",
+    "registration_id": "STU055",
     "name": "Shivam Sarkar",
     "email": "shivam.sarkar55@student.college.edu",
     "department": "Biotechnology",
@@ -825,8 +825,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_056",
-    "registration_id": "STU2026056",
+    "user_id": "STU056",
+    "registration_id": "STU056",
     "name": "Shreya Majumdar",
     "email": "shreya.majumdar56@student.college.edu",
     "department": "Civil Engineering",
@@ -840,8 +840,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_057",
-    "registration_id": "STU2026057",
+    "user_id": "STU057",
+    "registration_id": "STU057",
     "name": "Siddharth Chakraborty",
     "email": "siddharth.chakraborty57@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -855,8 +855,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_058",
-    "registration_id": "STU2026058",
+    "user_id": "STU058",
+    "registration_id": "STU058",
     "name": "Simran Sengupta",
     "email": "simran.sengupta58@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -870,8 +870,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_059",
-    "registration_id": "STU2026059",
+    "user_id": "STU059",
+    "registration_id": "STU059",
     "name": "Sneha Dasgupta",
     "email": "sneha.dasgupta59@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -885,8 +885,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_060",
-    "registration_id": "STU2026060",
+    "user_id": "STU060",
+    "registration_id": "STU060",
     "name": "Soham Mitra",
     "email": "soham.mitra60@student.college.edu",
     "department": "Information Technology",
@@ -900,8 +900,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_061",
-    "registration_id": "STU2026061",
+    "user_id": "STU061",
+    "registration_id": "STU061",
     "name": "Sonali Saha",
     "email": "sonali.saha61@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -915,8 +915,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_062",
-    "registration_id": "STU2026062",
+    "user_id": "STU062",
+    "registration_id": "STU062",
     "name": "Sparsh Barman",
     "email": "sparsh.barman62@student.college.edu",
     "department": "Mechanical Engineering",
@@ -930,8 +930,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_063",
-    "registration_id": "STU2026063",
+    "user_id": "STU063",
+    "registration_id": "STU063",
     "name": "Srishti Dhar",
     "email": "srishti.dhar63@student.college.edu",
     "department": "Biotechnology",
@@ -945,8 +945,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_064",
-    "registration_id": "STU2026064",
+    "user_id": "STU064",
+    "registration_id": "STU064",
     "name": "Suraj Nath",
     "email": "suraj.nath64@student.college.edu",
     "department": "Civil Engineering",
@@ -960,8 +960,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_065",
-    "registration_id": "STU2026065",
+    "user_id": "STU065",
+    "registration_id": "STU065",
     "name": "Tanvi Kashyap",
     "email": "tanvi.kashyap65@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -975,8 +975,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_066",
-    "registration_id": "STU2026066",
+    "user_id": "STU066",
+    "registration_id": "STU066",
     "name": "Tarun Prasad",
     "email": "tarun.prasad66@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -990,8 +990,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_067",
-    "registration_id": "STU2026067",
+    "user_id": "STU067",
+    "registration_id": "STU067",
     "name": "Tejas Sinha",
     "email": "tejas.sinha67@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -1005,8 +1005,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_068",
-    "registration_id": "STU2026068",
+    "user_id": "STU068",
+    "registration_id": "STU068",
     "name": "Trisha Shukla",
     "email": "trisha.shukla68@student.college.edu",
     "department": "Information Technology",
@@ -1020,8 +1020,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_069",
-    "registration_id": "STU2026069",
+    "user_id": "STU069",
+    "registration_id": "STU069",
     "name": "Tushar Pandit",
     "email": "tushar.pandit69@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -1035,8 +1035,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_070",
-    "registration_id": "STU2026070",
+    "user_id": "STU070",
+    "registration_id": "STU070",
     "name": "Utkarsh Rastogi",
     "email": "utkarsh.rastogi70@student.college.edu",
     "department": "Mechanical Engineering",
@@ -1050,8 +1050,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_071",
-    "registration_id": "STU2026071",
+    "user_id": "STU071",
+    "registration_id": "STU071",
     "name": "Vaibhav Srivastava",
     "email": "vaibhav.srivastava71@student.college.edu",
     "department": "Biotechnology",
@@ -1065,8 +1065,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_072",
-    "registration_id": "STU2026072",
+    "user_id": "STU072",
+    "registration_id": "STU072",
     "name": "Vaishnavi Dewan",
     "email": "vaishnavi.dewan72@student.college.edu",
     "department": "Civil Engineering",
@@ -1080,8 +1080,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_073",
-    "registration_id": "STU2026073",
+    "user_id": "STU073",
+    "registration_id": "STU073",
     "name": "Varun Anand",
     "email": "varun.anand73@student.college.edu",
     "department": "Computer Science and Engineering",
@@ -1095,8 +1095,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_074",
-    "registration_id": "STU2026074",
+    "user_id": "STU074",
+    "registration_id": "STU074",
     "name": "Vedant Nigam",
     "email": "vedant.nigam74@student.college.edu",
     "department": "Artificial Intelligence & Data Science",
@@ -1110,8 +1110,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_075",
-    "registration_id": "STU2026075",
+    "user_id": "STU075",
+    "registration_id": "STU075",
     "name": "Vidhi Biswas",
     "email": "vidhi.biswas75@student.college.edu",
     "department": "Electronics and Communication Engineering",
@@ -1125,8 +1125,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_076",
-    "registration_id": "STU2026076",
+    "user_id": "STU076",
+    "registration_id": "STU076",
     "name": "Vikas Bhatt",
     "email": "vikas.bhatt76@student.college.edu",
     "department": "Information Technology",
@@ -1140,8 +1140,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_077",
-    "registration_id": "STU2026077",
+    "user_id": "STU077",
+    "registration_id": "STU077",
     "name": "Vinay Mahajan",
     "email": "vinay.mahajan77@student.college.edu",
     "department": "Electrical and Electronics Engineering",
@@ -1155,8 +1155,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_078",
-    "registration_id": "STU2026078",
+    "user_id": "STU078",
+    "registration_id": "STU078",
     "name": "Vipin Khatri",
     "email": "vipin.khatri78@student.college.edu",
     "department": "Mechanical Engineering",
@@ -1170,8 +1170,8 @@
     "is_volunteer": true
   },
   {
-    "user_id": "USR_STU_079",
-    "registration_id": "STU2026079",
+    "user_id": "STU079",
+    "registration_id": "STU079",
     "name": "Yash Soni",
     "email": "yash.soni79@student.college.edu",
     "department": "Biotechnology",
@@ -1185,8 +1185,8 @@
     "is_volunteer": false
   },
   {
-    "user_id": "USR_STU_080",
-    "registration_id": "STU2026080",
+    "user_id": "STU080",
+    "registration_id": "STU080",
     "name": "Yukta Surana",
     "email": "yukta.surana80@student.college.edu",
     "department": "Civil Engineering",
