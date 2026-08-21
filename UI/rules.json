@@ -1,0 +1,156 @@
+[
+  {
+    "rule_id": "RUL_TIME_001",
+    "category": "Event Timing & Curfew",
+    "title": "Campus Event Curfew and Quiet Hours",
+    "description": "All indoor and outdoor college events must conclude by 20:00 hours (8:00 PM). Post-curfew extensions up to 22:00 hours require explicit written sanction from the Dean of Student Affairs at least 5 business days in advance.",
+    "parameters": {
+      "standard_curfew_time": "20:00",
+      "max_extended_curfew_time": "22:00",
+      "approval_lead_time_days": 5,
+      "approving_authority": "Dean of Student Affairs"
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_TIME_001 Campus Event Curfew: All college events must conclude by 8:00 PM (20:00). Event extension up to 10:00 PM is permissible only with written approval from Dean of Student Affairs submitted 5 days in advance. No campus events are allowed past 22:00 under any circumstance."
+  },
+  {
+    "rule_id": "RUL_VEN_001",
+    "category": "Venue & Capacity Compliance",
+    "title": "Maximum Venue Occupancy and Safety Clearances",
+    "description": "Total expected attendees cannot exceed 100% of the specified venue capacity. A safety buffer of at least 10% must remain unallocated for emergency exits. Overcrowding is strictly prohibited under campus safety regulations.",
+    "parameters": {
+      "max_occupancy_percentage": 100,
+      "safety_buffer_percentage": 10,
+      "fire_exit_clearance_meters": 2.5
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_VEN_001 Venue Capacity: The number of registered attendees must not exceed the venue capacity. Auditorium max capacity is 850, Seminar Hall 250, Turing Lab 120, OAT 2000, Conference Room 50, Indoor Sports 600, Mech CAD Lab 80, Library Commons 100. Emergency exits must remain unobstructed."
+  },
+  {
+    "rule_id": "RUL_RES_001",
+    "category": "Resource Allocation & Booking Lead Time",
+    "title": "Resource Requisition Advance Notice and Quotas",
+    "description": "Audio-Visual and Stage equipment requisitions must be submitted at least 72 hours (3 working days) prior to the event start. High-cost items (unit cost > INR 2000) require faculty coordinator endorsement.",
+    "parameters": {
+      "min_booking_lead_time_hours": 72,
+      "high_cost_threshold_inr": 2000.0,
+      "max_projectors_per_event": 2,
+      "max_pa_systems_per_event": 1
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_RES_001 Resource Requisition: Resources must be booked at least 72 hours (3 working days) before the event. Projectors are capped at 2 per event unless high-scale auditorium approval is given. Equipment unit cost above 2000 INR requires faculty coordinator signature."
+  },
+  {
+    "rule_id": "RUL_SND_001",
+    "category": "Acoustic & Noise Level Limits",
+    "title": "Decibel Levels and Outdoor Sound Regulations",
+    "description": "Outdoor sound systems and amplified music are permitted only between 16:30 and 19:30 hours. Sound levels must not exceed 75 dB near academic blocks, classrooms, and the central library.",
+    "parameters": {
+      "max_decibel_level_academic_zone": 75,
+      "outdoor_sound_start_time": "16:30",
+      "outdoor_sound_end_time": "19:30"
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_SND_001 Noise Regulations: Maximum noise level permitted is 75 dB near classrooms and library. Outdoor sound amplification at OAT or grounds is restricted to 4:30 PM to 7:30 PM to avoid disrupting academic sessions."
+  },
+  {
+    "rule_id": "RUL_BUD_001",
+    "category": "Financial & Budgeting Compliance",
+    "title": "Budget Cap and Expense Settlement Protocol",
+    "description": "The allocated budget for student club events cannot exceed INR 50,000 without Principal / Trustee pre-authorization. Itemized expenditure vouchers must be submitted to the accounts office within 7 working days of event completion.",
+    "parameters": {
+      "standard_club_budget_limit_inr": 50000.0,
+      "voucher_settlement_window_days": 7,
+      "refreshment_cap_per_head_inr": 120.0
+    },
+    "enforcement_level": "STRICT",
+    "rag_text": "Rule RUL_BUD_001 Budget Compliance: Club event budgets are capped at 50,000 INR. Per-head refreshment allowance is capped at 120 INR. Expense bills must be settled with finance department within 7 working days."
+  },
+  {
+    "rule_id": "RUL_ATT_001",
+    "category": "Academic & Attendance Integrity",
+    "title": "On-Duty (OD) Leave Eligibility for Student Volunteers",
+    "description": "Student organizers and volunteers are eligible for On-Duty (OD) attendance credit only if they maintain a baseline 75% classroom attendance prior to the event. Maximum OD granted is 2 consecutive days per semester.",
+    "parameters": {
+      "min_academic_attendance_percentage": 75,
+      "max_od_days_per_semester": 2,
+      "approving_head": "Head of Department (HOD)"
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_ATT_001 On-Duty (OD) Leave: Students must have at least 75% attendance to receive OD for organizing college events. Maximum OD allowable is 2 days per semester with HOD signature."
+  },
+  {
+    "rule_id": "RUL_SEC_001",
+    "category": "Campus Security & Guest Protocol",
+    "title": "External Guest Clearance and Identity Verification",
+    "description": "All external guests, speakers, judges, and visiting participants must carry valid photo identification and obtain security visitor passes at Gate 1. Dignitaries and VIP chief guests require a 7-day prior intimation to campus security.",
+    "parameters": {
+      "vip_intimation_lead_time_days": 7,
+      "mandatory_id_verification": true,
+      "entry_gate": "Gate 1 (Main Entrance)"
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_SEC_001 Guest Protocol: External judges and guests require prior security clearance 7 days before the event. All participants and guests must present valid government or college photo ID at Gate 1."
+  },
+  {
+    "rule_id": "RUL_GRN_001",
+    "category": "Sustainability & Green Campus",
+    "title": "Plastic-Free and Eco-Friendly Event Protocol",
+    "description": "Single-use plastic bottles, non-biodegradable flex banners, and disposable plastic cutlery are strictly prohibited on campus. Event organizers must deploy segregated waste disposal bins for organic and dry recyclable waste.",
+    "parameters": {
+      "single_use_plastic_allowed": false,
+      "waste_segregation_required": true,
+      "penalty_non_compliance_inr": 2000.0
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_GRN_001 Green Protocol: Single-use plastics, plastic water bottles, and plastic cutlery are banned. Waste segregation into dry and organic bins is mandatory at all event venues."
+  },
+  {
+    "rule_id": "RUL_STF_001",
+    "category": "Faculty & Staff Governance",
+    "title": "Mandatory Faculty Coordinator Supervision",
+    "description": "Every college event must have at least one designated faculty coordinator present on-site throughout the event duration for emergency escalation, student welfare, and administrative oversight.",
+    "parameters": {
+      "min_faculty_coordinators_present": 1,
+      "mandatory_on_site_presence": true
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_STF_001 Faculty Supervision: Every event requires at least one appointed faculty coordinator physically present on campus during the entire event duration."
+  },
+  {
+    "rule_id": "RUL_VOL_001",
+    "category": "Volunteer & Crowd Management",
+    "title": "Student Volunteer Ratio and Crowd Management",
+    "description": "Organizers must deploy a minimum ratio of 1 student volunteer for every 25 expected attendees to manage registrations, crowd flow, and logistics.",
+    "parameters": {
+      "attendees_per_volunteer_ratio": 25,
+      "min_volunteers_floor": 2
+    },
+    "enforcement_level": "RECOMMENDED",
+    "rag_text": "Rule RUL_VOL_001 Volunteer Ratio: Events require a minimum of 1 student volunteer per 25 expected attendees, with a minimum baseline of 2 volunteers."
+  },
+  {
+    "rule_id": "RUL_FOD_001",
+    "category": "Catering & Hospitality",
+    "title": "Campus Catering Hygiene and Food Safety Compliance",
+    "description": "All event refreshments, lunch packets, and snacks must be sourced exclusively from campus-empanelled FSSAI-certified food vendors. Distribution is restricted to authorized dining halls or designated refreshment zones.",
+    "parameters": {
+      "fssai_certification_required": true,
+      "authorized_distribution_zones_only": true
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_FOD_001 Catering Compliance: Food and refreshments must be procured only from FSSAI-certified campus-approved vendors and served exclusively in designated dining/refreshment zones."
+  },
+  {
+    "rule_id": "RUL_CLN_001",
+    "category": "Post-Event Logistics & Handover",
+    "title": "Post-Event Cleanliness, Inventory Audit, and Handover",
+    "description": "Venues and rented resources must undergo a physical cleanliness check and return audit within 2 hours of event completion. Any damaged equipment or unattended waste will incur departmental logistics deductions.",
+    "parameters": {
+      "max_handover_window_hours": 2,
+      "post_event_inspection_mandatory": true
+    },
+    "enforcement_level": "MANDATORY",
+    "rag_text": "Rule RUL_CLN_001 Venue Handover: Venues and resources must be audited and returned in clean condition within 2 hours of event conclusion."
+  }
+]

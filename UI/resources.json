@@ -1,0 +1,110 @@
+[
+  {
+    "resource_id": "RES_PA_001",
+    "resource_name": "Line Array PA Sound System & Digital Mixer (JBL 4000W)",
+    "available_quantity": 4,
+    "unit_cost": 3500.0,
+    "availability": true,
+    "category": "Audio-Visual",
+    "storage_location": "AV Central Store, Aud Block Room 102"
+  },
+  {
+    "resource_id": "RES_PRJ_001",
+    "resource_name": "High-Lumen 4K Laser Projector (Epson 7000 Lumens)",
+    "available_quantity": 8,
+    "unit_cost": 2000.0,
+    "availability": true,
+    "category": "Audio-Visual",
+    "storage_location": "AV Central Store, Aud Block Room 102"
+  },
+  {
+    "resource_id": "RES_MIC_001",
+    "resource_name": "Cordless UHF Collar & Handheld Microphone Set (Shure 4-Pack)",
+    "available_quantity": 15,
+    "unit_cost": 600.0,
+    "availability": true,
+    "category": "Audio-Visual",
+    "storage_location": "AV Central Store, Aud Block Room 102"
+  },
+  {
+    "resource_id": "RES_POD_001",
+    "resource_name": "Digital Smart Podium with Interactive Display & Mic",
+    "available_quantity": 5,
+    "unit_cost": 1500.0,
+    "availability": true,
+    "category": "Stage Equipment",
+    "storage_location": "Central Store, Admin Block Ground Floor"
+  },
+  {
+    "resource_id": "RES_CHR_001",
+    "resource_name": "High-Back Cushioned Banquet Chairs (Set of 50)",
+    "available_quantity": 20,
+    "unit_cost": 500.0,
+    "availability": true,
+    "category": "Furniture",
+    "storage_location": "Logistics Warehouse, South Bay"
+  },
+  {
+    "resource_id": "RES_TBL_001",
+    "resource_name": "Standard Banquet Presentation Tables with Linen (6ft)",
+    "available_quantity": 40,
+    "unit_cost": 250.0,
+    "availability": true,
+    "category": "Furniture",
+    "storage_location": "Logistics Warehouse, South Bay"
+  },
+  {
+    "resource_id": "RES_LGT_001",
+    "resource_name": "RGB Stage LED Par Can & Spotlight Rig System",
+    "available_quantity": 6,
+    "unit_cost": 2800.0,
+    "availability": true,
+    "category": "Lighting",
+    "storage_location": "Electrical Maintenance Wing, Bay 3"
+  },
+  {
+    "resource_id": "RES_PWR_001",
+    "resource_name": "Heavy-Duty Surge Protected Multi-Plug Extension Hubs (30m)",
+    "available_quantity": 30,
+    "unit_cost": 150.0,
+    "availability": true,
+    "category": "Electrical",
+    "storage_location": "Electrical Maintenance Wing, Bay 1"
+  },
+  {
+    "resource_id": "RES_WIFI_001",
+    "resource_name": "High-Density Portable Wi-Fi 6 Access Point Hub (Cisco)",
+    "available_quantity": 10,
+    "unit_cost": 1200.0,
+    "availability": true,
+    "category": "Networking",
+    "storage_location": "IT Infrastructure Cell, Server Room B"
+  },
+  {
+    "resource_id": "RES_BKG_001",
+    "resource_name": "Adjustable Metal Backdrop Truss & Flex Banner Frame (20x10ft)",
+    "available_quantity": 5,
+    "unit_cost": 1800.0,
+    "availability": true,
+    "category": "Stage Equipment",
+    "storage_location": "Logistics Warehouse, North Bay"
+  },
+  {
+    "resource_id": "RES_MED_001",
+    "resource_name": "First Aid Mobile Response Kit with AED and Oxygen Cylinder",
+    "available_quantity": 4,
+    "unit_cost": 400.0,
+    "availability": true,
+    "category": "Safety & Healthcare",
+    "storage_location": "Campus Health Centre, Ground Floor"
+  },
+  {
+    "resource_id": "RES_BAR_001",
+    "resource_name": "Retractable Queue Crowd Control Stanchion Belts (Pair of 4)",
+    "available_quantity": 25,
+    "unit_cost": 300.0,
+    "availability": true,
+    "category": "Logistics & Security",
+    "storage_location": "Campus Security Command Office, Gate 1"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "venue_id": "VEN_AUD_001",
+    "venue_name": "Dr. APJ Abdul Kalam Main Auditorium",
+    "capacity": 850,
+    "availability": true,
+    "suitable_event_type": [
+      "Technical Symposium",
+      "Cultural Fest",
+      "Annual Day",
+      "Hackathon Inauguration",
+      "International Conference"
+    ],
+    "location": "Central Block, Level 1",
+    "facilities": [
+      "Central Air Conditioning",
+      "Line Array Audio System",
+      "Dual 4K Projectors",
+      "Green Rooms",
+      "Backup Power Generator"
+    ]
+  },
+  {
+    "venue_id": "VEN_SEM_001",
+    "venue_name": "Sir C.V. Raman Seminar Hall",
+    "capacity": 250,
+    "availability": true,
+    "suitable_event_type": [
+      "Workshop",
+      "Faculty Development Program",
+      "Guest Lecture",
+      "Panel Discussion"
+    ],
+    "location": "Science Block, Level 2",
+    "facilities": [
+      "Air Conditioning",
+      "PA System",
+      "Smart Podium",
+      "Ceiling Projector",
+      "Wi-Fi Coverage"
+    ]
+  },
+  {
+    "venue_id": "VEN_LAB_001",
+    "venue_name": "Alan Turing High Performance Computing Lab",
+    "capacity": 120,
+    "availability": true,
+    "suitable_event_type": [
+      "Hackathon",
+      "Coding Competition",
+      "Hands-on AI Workshop",
+      "Project Demo"
+    ],
+    "location": "IT Tower, Level 3",
+    "facilities": [
+      "120 Workstations with GPU",
+      "High-Speed Gigabit LAN",
+      "Smart Display Board",
+      "Air Conditioning",
+      "UPS Power Backup"
+    ]
+  },
+  {
+    "venue_id": "VEN_OAT_001",
+    "venue_name": "Open Air Theatre (OAT)",
+    "capacity": 2000,
+    "availability": true,
+    "suitable_event_type": [
+      "Cultural Night",
+      "Music Concert",
+      "College Day",
+      "Alumni Reunion",
+      "Street Play"
+    ],
+    "location": "Campus Grounds West",
+    "facilities": [
+      "Open Stage",
+      "Floodlights",
+      "Acoustic Stage Shell",
+      "Amphitheatre Tiered Seating",
+      "Backstage Dressing Rooms"
+    ]
+  },
+  {
+    "venue_id": "VEN_CNF_001",
+    "venue_name": "Executive Board & Conference Room",
+    "capacity": 50,
+    "availability": true,
+    "suitable_event_type": [
+      "Executive Meeting",
+      "Advisory Board Session",
+      "VIP Guest Reception",
+      "Jury Deliberation"
+    ],
+    "location": "Administrative Block, Level 2",
+    "facilities": [
+      "Video Conferencing Rig",
+      "Sound Dampening Acoustics",
+      "Roundtable Mics",
+      "Executive Cushioned Seating",
+      "Private Pantry"
+    ]
+  },
+  {
+    "venue_id": "VEN_SPT_001",
+    "venue_name": "Major Dhyan Chand Indoor Sports Complex",
+    "capacity": 600,
+    "availability": true,
+    "suitable_event_type": [
+      "Inter-College Tournament",
+      "Sports Meet",
+      "Exhibition & Expo",
+      "Mega Project Showcase"
+    ],
+    "location": "Sports Wing East",
+    "facilities": [
+      "Hardwood Court Flooring",
+      "Scoreboards",
+      "PA Announcer System",
+      "Locker Rooms & Showers",
+      "First Aid Room"
+    ]
+  },
+  {
+    "venue_id": "VEN_MECH_001",
+    "venue_name": "CAD/CAM & Prototyping Workshop Hall",
+    "capacity": 80,
+    "availability": true,
+    "suitable_event_type": [
+      "Robotics Contest",
+      "Hardware Hackathon",
+      "Design Workshop",
+      "Prototyping Boot Camp"
+    ],
+    "location": "Mechanical Block, Ground Floor",
+    "facilities": [
+      "3D Printers",
+      "Power Tool Stations",
+      "Exhaust Ventilation",
+      "Overhead Projector",
+      "Soldering Benches"
+    ]
+  },
+  {
+    "venue_id": "VEN_LIB_001",
+    "venue_name": "Central Library Digital Learning Commons",
+    "capacity": 100,
+    "availability": true,
+    "suitable_event_type": [
+      "Paper Presentation",
+      "Quiz Competition",
+      "Book Reading & Discussion",
+      "Research Symposium"
+    ],
+    "location": "Central Library, Level 1",
+    "facilities": [
+      "Quiet Zone Acoustic Paneling",
+      "Digital Terminals",
+      "Projector",
+      "Wi-Fi Hub",
+      "Reference Stacks"
+    ]
+  }
+]
