@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "353bc161-f37c-420e-85cd-0b94779cad96",
+    "endDate": "2026-12-15T17:00:00Z",
+    "description": "Annual technology conference",
+    "date": "2026-12-15",
+    "startDate": "2026-12-15T09:00:00Z",
+    "name": "Tech Conference 2026",
+    "category": "conference",
+    "location": "Main Auditorium",
+    "expectedAttendees": 200,
+    "budget": 15000,
+    "status": "pending",
+    "createdAt": "2026-08-22T08:08:46.864Z"
+  }
+]
